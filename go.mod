@@ -1,13 +1,14 @@
-module github.com/mincho-artesoft/webtransport-go-fork
+module github.com/mincho-artesoft/webtransport-go
 
 go 1.21
- 
+
 require (
 	github.com/quic-go/quic-go v0.43.0
 	github.com/stretchr/testify v1.8.0
 	go.uber.org/mock v0.4.0
 	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63
 )
+
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
