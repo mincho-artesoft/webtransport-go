@@ -1,6 +1,6 @@
 module github.com/mincho-artesoft/webtransport-go
 
-go 1.21
+go 1.22.4
 
 require (
 	github.com/quic-go/quic-go v0.43.0
