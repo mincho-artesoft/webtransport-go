@@ -1,4 +1,4 @@
-module github.com/mincho-artesoft/webtransport-go
+module github.com/mincho-artesoft/webtransport-go-fork
 
 go 1.21
 
