@@ -1,7 +1,7 @@
 module github.com/mincho-artesoft/webtransport-go-fork
 
 go 1.21
-
+ 
 require (
 	github.com/quic-go/quic-go v0.43.0
 	github.com/stretchr/testify v1.8.0
