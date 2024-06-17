@@ -7,9 +7,7 @@ require (
 	github.com/stretchr/testify v1.8.0
 	go.uber.org/mock v0.4.0
 	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63
-	github.com/quic-go/webtransport-go v0.0.0-20240617105034-b9e687254b16
 )
-replace github.com/quic-go/webtransport-go => github.com/mincho-artesoft/webtransport-go v0.0.0-20240617105034-b9e687254b16
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
